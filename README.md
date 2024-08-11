@@ -24,7 +24,7 @@ Skills: REACT / JS / HTML / CSS / VUE JS / PYTHON / JAVA / JUPYTER NOTEBOOK
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=refat-alam)  
 
-![GitHub metrics](https://metrics.lecoq.io/refat-alam)  
+![GitHub metrics](https://metrics.lecoq.io/insights/refat-alam)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=refat-alam)  
 
