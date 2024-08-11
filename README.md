@@ -5,7 +5,7 @@
 Like to do some Stupid things.
 Man of Culture.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / JAVA / JUPYTER NOTEBOOK
+Skills: REACT / JS / HTML / CSS / VUE JS / PYTHON / JAVA / JUPYTER NOTEBOOK
 
 - 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning Web Developing 
